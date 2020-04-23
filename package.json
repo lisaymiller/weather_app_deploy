@@ -10,7 +10,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "homepage": "https://lisaymiller.github.io/weather_app_deploy/"
+    "homepage": "https://lisaymiller.github.io/weather-app/"
   },
   "scripts": {
     "start": "react-scripts start",
