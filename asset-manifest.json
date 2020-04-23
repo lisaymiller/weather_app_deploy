@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.c96c0274.chunk.css",
-    "main.js": "/static/js/main.ede2a530.chunk.js",
-    "main.js.map": "/static/js/main.ede2a530.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e09fc0f4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e09fc0f4.js.map",
-    "static/js/2.336ea6e7.chunk.js": "/static/js/2.336ea6e7.chunk.js",
-    "static/js/2.336ea6e7.chunk.js.map": "/static/js/2.336ea6e7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.85faf15de80d0f734ed07225b63dcdce.js": "/precache-manifest.85faf15de80d0f734ed07225b63dcdce.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.c96c0274.chunk.css.map": "/static/css/main.c96c0274.chunk.css.map",
-    "static/js/2.336ea6e7.chunk.js.LICENSE.txt": "/static/js/2.336ea6e7.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/redland.81d35452.jpg"
+    "main.css": "/weather_app_deploy/static/css/main.741835f8.chunk.css",
+    "main.js": "/weather_app_deploy/static/js/main.40a2698d.chunk.js",
+    "main.js.map": "/weather_app_deploy/static/js/main.40a2698d.chunk.js.map",
+    "runtime-main.js": "/weather_app_deploy/static/js/runtime-main.54e61245.js",
+    "runtime-main.js.map": "/weather_app_deploy/static/js/runtime-main.54e61245.js.map",
+    "static/js/2.336ea6e7.chunk.js": "/weather_app_deploy/static/js/2.336ea6e7.chunk.js",
+    "static/js/2.336ea6e7.chunk.js.map": "/weather_app_deploy/static/js/2.336ea6e7.chunk.js.map",
+    "index.html": "/weather_app_deploy/index.html",
+    "precache-manifest.86754662190b61e6161823b975d624ac.js": "/weather_app_deploy/precache-manifest.86754662190b61e6161823b975d624ac.js",
+    "service-worker.js": "/weather_app_deploy/service-worker.js",
+    "static/css/main.741835f8.chunk.css.map": "/weather_app_deploy/static/css/main.741835f8.chunk.css.map",
+    "static/js/2.336ea6e7.chunk.js.LICENSE.txt": "/weather_app_deploy/static/js/2.336ea6e7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather_app_deploy/static/media/redland.81d35452.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e09fc0f4.js",
+    "static/js/runtime-main.54e61245.js",
     "static/js/2.336ea6e7.chunk.js",
-    "static/css/main.c96c0274.chunk.css",
-    "static/js/main.ede2a530.chunk.js"
+    "static/css/main.741835f8.chunk.css",
+    "static/js/main.40a2698d.chunk.js"
   ]
 }
